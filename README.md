@@ -21,14 +21,13 @@ The Knapsack Problem involves selecting items with given weights and values whil
 - GitHub
 
 ### Future Work
-- Implement the required quantum optimization algorithm.
-- Run experiments on Processor A and Processor B.
-- Compare performance metrics.
-- Document benchmark results and conclusions.
+- Validate the implementation using the official challenge inputs.
+- Run experiments on Processor A and Processor B, if access and specifications are available.
+- Compare solution quality, circuit depth, gate counts, and execution performance.
+- Document official benchmark results after validation.
 
 ### Project Status
-Work in progress. The current notebook contains practice experiments. Official benchmark results will be added after implementation and validation.
-## Latest Results
+The sample knapsack problem was tested using a classical brute-force method and a QAOA simulation. Both produced an objective value of 7 for the sample problem. Official challenge validation and Processor A/B benchmarking are still pending.
 
 - Classical Knapsack maximum value: 7
 - QAOA selected items: 0 and 1
