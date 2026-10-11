@@ -34,3 +34,11 @@ The Knapsack Problem involves selecting items with given weights and values whil
 - QAOA objective value: 26.0
 - Status: QAOA simulation completed successfully.
 - Note: Official O3 Knapsack inputs were used for the classical and QAOA simulation. Processor A/B values are preliminary sample-circuit measurements; actual hardware benchmarking is still pending.
+- ## Team Members
+
+| S. No. | Name | Role |
+|---|---|---|
+| 1 | Spurthi Reddy | Team Leader |
+| 2 | Gudivaka Niharika | Team Member |
+| 3 | Goli Puja Sri | Team Member |
+| 4 | Prazna Durga | Team Member |
