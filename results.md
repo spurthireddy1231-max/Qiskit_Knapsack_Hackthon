@@ -15,4 +15,4 @@ This folder stores measured results for the official O3 Knapsack problem.
 - Classical total weight: 14
 
 ## Processor A/B Comparison
-Actual QAOA benchmark measurements for Processor A and Processor B must be added here after both runs are completed. No unverified measurements are included.
+**Note:** The Processor A/B depth, CX gate, and SWAP gate values are from the sample-circuit transpilation test only. They are not actual QAOA benchmark results. The classical brute-force and QAOA simulation both reported an objective value of 26 for the official knapsack input. Processor A/B performance conclusions should be based on measurements from the actual QAOA circuit.
