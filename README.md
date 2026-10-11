@@ -28,3 +28,10 @@ The Knapsack Problem involves selecting items with given weights and values whil
 
 ### Project Status
 Work in progress. The current notebook contains practice experiments. Official benchmark results will be added after implementation and validation.
+## Latest Results
+
+- Classical Knapsack maximum value: 7
+- QAOA selected items: 0 and 1
+- QAOA objective value: 7.0
+- Status: QAOA simulation completed successfully.
+- Note: Results are from a sample problem; official Processor A/B benchmarking is still pending.
