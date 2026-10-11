@@ -1,0 +1,7 @@
+
+qiskit
+qiskit-algorithms==0.3.1
+qiskit-optimization
+numpy
+pandas
+matplotlib
