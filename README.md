@@ -27,10 +27,10 @@ The Knapsack Problem involves selecting items with given weights and values whil
 - Document official benchmark results after validation.
 
 ### Project Status
-The sample knapsack problem was tested using a classical brute-force method and a QAOA simulation. Both produced an objective value of 7 for the sample problem. Official challenge validation and Processor A/B benchmarking are still pending.
+ The official O3 Knapsack input contains five items with a capacity of 15. The classical brute-force solution achieved an optimal value of 26, selecting items 1, 2, 3, and 4 with a total weight of 14. The QAOA simulation returned an objective value of 26.0 with SUCCESS status. Official Processor A/B hardware benchmarking remains pending.
 
-- Classical Knapsack maximum value: 7
-- QAOA selected items: 0 and 1
-- QAOA objective value: 7.0
+- Classical Knapsack maximum value: 26
+- QAOA selected items: 1,2,3 and 4
+- QAOA objective value: 26.0
 - Status: QAOA simulation completed successfully.
-- Note: Results are from a sample problem; official Processor A/B benchmarking is still pending.
+- Note: Official O3 Knapsack inputs were used for the classical and QAOA simulation. Processor A/B values are preliminary sample-circuit measurements; actual hardware benchmarking is still pending.
